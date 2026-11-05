@@ -34,7 +34,7 @@ Python-разработчик с опытом преподавания и пра
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 **Языки и ОС**
 
@@ -42,7 +42,7 @@ Python-разработчик с опытом преподавания и пра
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-sql.svg?v=2" alt="SQL" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-linux.svg?v=2" alt="Linux" />
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 **Контейнеры и CI/CD**
 
@@ -50,7 +50,7 @@ Python-разработчик с опытом преподавания и пра
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-compose.svg?v=2" alt="Docker Compose" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-actions.svg?v=2" alt="GitHub Actions" />
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 **Бэкенд и данные**
 
@@ -60,7 +60,7 @@ Python-разработчик с опытом преподавания и пра
 </td>
 </tr>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 **Наблюдаемость**
 
@@ -68,14 +68,14 @@ Python-разработчик с опытом преподавания и пра
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-slo.svg?v=2" alt="SLA / SLO / SLI" />
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 **Тесты**
 
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-pytest.svg?v=2" alt="pytest" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-ruff.svg?v=2" alt="ruff" />
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" align="center" valign="top">
 
 **Сети**
 
