@@ -1,0 +1,56 @@
+name: Update profile stats
+
+on:
+  schedule:
+    # каждый день в 03:17 UTC
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "tools/**"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install fonttools
+        run: pip install fonttools
+
+      - name: Download Inter font
+        run: |
+          curl -sL -o inter.zip https://github.com/rsms/inter/releases/download/v4.1/Inter-4.1.zip
+          unzip -q inter.zip -d inter
+          mkdir -p fonts
+          cp inter/extras/ttf/Inter-SemiBold.ttf fonts/
+          cp inter/extras/ttf/Inter-Medium.ttf fonts/
+
+      - name: Fetch stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api graphql -F login=${{ github.repository_owner }} -F query=@tools/stats.gql > stats.json
+
+      - name: Render cards
+        run: |
+          export INTER_FONT="$PWD/fonts/Inter-SemiBold.ttf"
+          python tools/make_stats.py stats.json badges
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -rf fonts inter inter.zip stats.json
+          git add badges/
+          git diff --staged --quiet || git commit -m "chore: update profile stats [skip ci]"
+          git push

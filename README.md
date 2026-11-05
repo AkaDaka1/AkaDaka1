@@ -5,20 +5,20 @@
 
 <!-- ═══════════════ ПЕЧАТАЮЩИЙСЯ ТЕКСТ ═══════════════ -->
 <a href="https://akadaka1.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=41CD52&center=true&vCenter=true&width=640&lines=%D0%A1%D1%82%D1%80%D0%BE%D1%8E+%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D1%8B%D0%B5+%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B+%D0%B8+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E;Python+%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B5+7+%D0%BB%D0%B5%D1%82;Linux+%C2%B7+Docker+%C2%B7+CI%2FCD+%C2%B7+%D0%BD%D0%B0%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C;%D0%98%D1%89%D1%83+%D1%81%D1%82%D0%B0%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D1%83+SRE" alt="SRE · Python · Linux · Docker · CI/CD" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=41CD52&center=true&vCenter=true&width=640&lines=%D0%A1%D1%82%D1%80%D0%BE%D1%8E+%D0%BD%D0%B0%D0%B4%D1%91%D0%B6%D0%BD%D1%8B%D0%B5+%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B+%D0%B8+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8E;Linux+%C2%B7+Docker+%C2%B7+CI%2FCD+%C2%B7+%D0%BD%D0%B0%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0%D0%B5%D0%BC%D0%BE%D1%81%D1%82%D1%8C;FastAPI+%C2%B7+PostgreSQL+%C2%B7+%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" alt="SRE · Python · Linux · Docker · CI/CD" />
 </a>
 
 <!-- ═══════════════ БЕЙДЖИ КОНТАКТОВ ═══════════════ -->
 <p>
-  <a href="https://akadaka1.github.io"><img src="https://img.shields.io/badge/Website-akadaka1.github.io-5865f2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
-  <a href="https://t.me/mom_danil"><img src="https://img.shields.io/badge/Telegram-@mom__danil-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:dan.mom0t@yandex.ru"><img src="https://img.shields.io/badge/Email-dan.mom0t@yandex.ru-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="https://akadaka1.github.io"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/website.svg" alt="Website" height="28" /></a>
+  <a href="https://t.me/mom_danil"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/telegram.svg" alt="Telegram" height="28" /></a>
+  <a href="mailto:dan.mom0t@yandex.ru"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/email.svg" alt="Email" height="28" /></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3-informational?style=flat-square&logo=googlemaps&logoColor=white" alt="Санкт-Петербург" />
-  <img src="https://img.shields.io/badge/Open%20to-Office%20%7C%20Hybrid%20%7C%20Remote-41cd52?style=flat-square" alt="Open to work" />
-  <img src="https://img.shields.io/badge/English-B2-blue?style=flat-square" alt="English B2" />
+  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/location.svg" alt="Saint Petersburg" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/open-to.svg" alt="Open to: office, hybrid, remote" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/english.svg" alt="English B2" height="28" />
 </p>
 
 </div>
@@ -27,16 +27,15 @@
 
 ## 👋 О себе
 
-**SRE (junior)** с семью годами Python за спиной. Иду в SRE осознанно: меньше ручной работы — больше автоматизации, воспроизводимости и надёжности.
+Иду в SRE осознанно: меньше ручной работы — больше автоматизации, воспроизводимости и надёжности.
 
 - 🐧 **Linux** — рабочая среда: собственный сервер, Docker/Compose, bash, systemd, firewall, SSH.
-- ⚙️ **Python 7 лет** — от скриптов автоматизации до FastAPI-сервисов и desktop-приложений на PySide6.
+- ⚙️ **Python** — от скриптов автоматизации до FastAPI-сервисов и desktop-приложений на PySide6.
 - 🚀 **Строю [ClicKit](https://github.com/AkaDaka1/ClicKit)** — desktop-приложение с **274 автотестами**, CI/CD на GitHub Actions, Docker-образами и релизом 1.0.0.
 - 📊 Сейчас добавляю сервисный слой: **FastAPI + PostgreSQL**, метрики, логи, трейсы, SLO, Terraform / k3s.
 - 🎓 Преподавал IT-дисциплины ~2 года — умею объяснять сложное простыми словами.
 
-> Ищу **стажировку SRE**, чтобы отвечать за надёжность на реальном масштабе.
-> Санкт-Петербург · офис / гибрид / удалёнка.
+Санкт-Петербург · офис / гибрид / удалёнка.
 
 ---
 
@@ -46,42 +45,23 @@
 
 **Языки и ОС**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-python.svg" alt="Python" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-bash.svg" alt="Bash" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-sql.svg" alt="SQL" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-linux.svg" alt="Linux" height="28" />
 
 **Контейнеры и CI/CD**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-docker.svg" alt="Docker" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-compose.svg" alt="Docker Compose" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-actions.svg" alt="GitHub Actions" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-git.svg" alt="Git" height="28" />
 
 **Бэкенд и данные**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Qt](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-fastapi.svg" alt="FastAPI" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-postgres.svg" alt="PostgreSQL" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-mongo.svg" alt="MongoDB" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-pyside.svg" alt="PySide6" height="28" />
 
 **Наблюдаемость и SRE**
 
-![Prometheus](https://img.shields.io/badge/Prometheus-%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%8E-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%D0%B8%D0%B7%D1%83%D1%87%D0%B0%D1%8E-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![SLO](https://img.shields.io/badge/SLA%20%2F%20SLO%20%2F%20SLI-error%20budget-5865f2?style=for-the-badge)
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-prometheus.svg" alt="Prometheus" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-grafana.svg" alt="Grafana" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-slo.svg" alt="SLA / SLO / SLI" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-observability.svg" alt="Logs / Metrics / Traces" height="28" />
 
-**Тесты и качество**
+**Тесты, качество и сети**
 
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![ruff](https://img.shields.io/badge/ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black)
-
-**Сети и инфраструктура**
-
-![OpenWRT](https://img.shields.io/badge/OpenWRT-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
-![Cisco](https://img.shields.io/badge/Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Nginx](https://img.shields.io/badge/SSH%20%2F%20Firewall-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-pytest.svg" alt="pytest" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-ruff.svg" alt="ruff" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-openwrt.svg" alt="OpenWRT" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-ssh.svg" alt="SSH / Firewall" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-n8n.svg" alt="n8n" height="28" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-packettracer.svg" alt="Cisco Packet Tracer" height="28" />
 
 </div>
 
@@ -154,16 +134,16 @@ Telegram-бот, который в диалоге собирает данные 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkaDaka1&show_icons=true&hide_border=true&title_color=41cd52&icon_color=5865f2&text_color=c9d1d9&bg_color=0a0b10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkaDaka1&layout=compact&hide_border=true&title_color=41cd52&text_color=c9d1d9&bg_color=0a0b10&langs_count=8" alt="Top Languages" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/stats-overview.svg" alt="GitHub Stats" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/stats-langs.svg" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkaDaka1&hide_border=true&background=0a0b10&stroke=41cd52&ring=5865f2&fire=41cd52&currStreakLabel=41cd52&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/stats-streak.svg" alt="Streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AkaDaka1&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/stats-activity.svg" alt="Activity" />
 
 </div>
 
@@ -179,10 +159,11 @@ Telegram-бот, который в диалоге собирает данные 
 
 <div align="center">
 
-### 🤝 Открыт к предложениям — стажировка SRE, Junior SRE, DevOps
+Открыт к предложениям · Санкт-Петербург
 
-<a href="mailto:dan.mom0t@yandex.ru"><img src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%20%D0%BF%D0%BE%D1%87%D1%82%D1%83-41cd52?style=for-the-badge" alt="Email" /></a>
-<a href="https://t.me/mom_danil"><img src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%B2%20Telegram-5865f2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:dan.mom0t@yandex.ru"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/email.svg" alt="Email" height="28" /></a>
+<a href="https://t.me/mom_danil"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/telegram.svg" alt="Telegram" height="28" /></a>
+<a href="https://akadaka1.github.io"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/website.svg" alt="Website" height="28" /></a>
 
 <br/><br/>
 
