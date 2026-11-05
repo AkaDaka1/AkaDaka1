@@ -91,6 +91,9 @@ Python-разработчик с опытом преподавания и пра
 
 </td>
 </tr>
+<tr>
+<td colspan="6"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/spacer.svg?v=2" width="1200" height="1" alt="" /></td>
+</tr>
 </table>
 
 ---
