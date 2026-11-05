@@ -47,7 +47,7 @@ Python-разработчик с опытом преподавания и пра
 </td>
 <td width="16%" valign="top">
 
-**Контейнеры и CI/CD**<br/>
+**CI/CD**<br/>
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/spacer.svg?v=2" width="200" height="1" alt="" />
 
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-docker.svg?v=2" alt="Docker" /><br/>
