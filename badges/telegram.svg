@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="28" viewBox="0 0 189 28" role="img" aria-label="Telegram: @mom_danil">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600&amp;display=swap');
+      .l { font-family:'Inter','Segoe UI',sans-serif; font-size:12.5px; font-weight:600; fill:#8b93b0; }
+      .v { font-family:'Inter','Segoe UI',sans-serif; font-size:12.5px; font-weight:600; fill:#e7e9f3; }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="188" height="27" rx="7" fill="#11131c" stroke="#2a2f45"/>
+  <path d="M96 0.5 v27" stroke="#2a2f45"/>
+  <g transform="translate(10,8.0) scale(0.5)" fill="none" stroke="#26A5E4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2 11 13M22 2l-7 20-4-9-9-4 20-7z"/></g>
+  <text x="30.0" y="14.0" class="l" dominant-baseline="central">Telegram</text>
+  <text x="106.4" y="14.0" class="v" dominant-baseline="central">@mom_danil</text>
+</svg>

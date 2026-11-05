@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="233" height="28" viewBox="0 0 233 28" role="img" aria-label="Location: Saint Petersburg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600&amp;display=swap');
+      .l { font-family:'Inter','Segoe UI',sans-serif; font-size:12.5px; font-weight:600; fill:#8b93b0; }
+      .v { font-family:'Inter','Segoe UI',sans-serif; font-size:12.5px; font-weight:600; fill:#e7e9f3; }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="232" height="27" rx="7" fill="#11131c" stroke="#2a2f45"/>
+  <path d="M96 0.5 v27" stroke="#2a2f45"/>
+  <g transform="translate(10,8.0) scale(0.5)" fill="none" stroke="#8b93b0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s7-6.2 7-11a7 7 0 1 0-14 0c0 4.8 7 11 7 11z"/><circle cx="12" cy="10" r="2.5"/></g>
+  <text x="30.0" y="14.0" class="l" dominant-baseline="central">Location</text>
+  <text x="106.4" y="14.0" class="v" dominant-baseline="central">Saint Petersburg</text>
+</svg>

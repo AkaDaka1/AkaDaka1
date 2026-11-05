@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="28" viewBox="0 0 240 28" role="img" aria-label="Website: akadaka1.github.io">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600&amp;display=swap');
+      .l { font-family:'Inter','Segoe UI',sans-serif; font-size:12.5px; font-weight:600; fill:#8b93b0; }
+      .v { font-family:'Inter','Segoe UI',sans-serif; font-size:12.5px; font-weight:600; fill:#e7e9f3; }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="240" height="27" rx="7" fill="#11131c" stroke="#2a2f45"/>
+  <path d="M89 0.5 v27" stroke="#2a2f45"/>
+  <g transform="translate(10,8.0) scale(0.5)" fill="none" stroke="#5865f2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a15 15 0 0 1 0 18a15 15 0 0 1 0-18z"/></g>
+  <text x="30.0" y="14.0" class="l" dominant-baseline="central">Website</text>
+  <text x="99.1" y="14.0" class="v" dominant-baseline="central">akadaka1.github.io</text>
+</svg>
