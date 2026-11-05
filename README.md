@@ -12,7 +12,7 @@
 <p>
   <a href="https://akadaka1.github.io"><img src="https://img.shields.io/badge/Website-akadaka1.github.io-5865f2?style=for-the-badge&logo=githubpages&logoColor=white" alt="Website" /></a>
   <a href="https://t.me/mom_danil"><img src="https://img.shields.io/badge/Telegram-@mom__danil-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:dan.mom0t@yandex.ru"><img src="https://img.shields.io/badge/Email-dan.mom0t@yandex.ru-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+  <a href="mailto:danilmomoyyy@gmail.com"><img src="https://img.shields.io/badge/Email-danilmomoyyy@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p>
@@ -181,7 +181,7 @@ Telegram-бот, который в диалоге собирает данные 
 
 ### 🤝 Открыт к предложениям — стажировка SRE, Junior SRE, DevOps
 
-<a href="mailto:dan.mom0t@yandex.ru"><img src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%20%D0%BF%D0%BE%D1%87%D1%82%D1%83-41cd52?style=for-the-badge" alt="Email" /></a>
+<a href="mailto:danilmomoyyy@gmail.com"><img src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%20%D0%BF%D0%BE%D1%87%D1%82%D1%83-41cd52?style=for-the-badge" alt="Email" /></a>
 <a href="https://t.me/mom_danil"><img src="https://img.shields.io/badge/%D0%9D%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D1%8C%20%D0%B2%20Telegram-5865f2?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 <br/><br/>
