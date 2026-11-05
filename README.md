@@ -41,7 +41,7 @@ Python-разработчик с опытом преподавания и пра
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-python.svg?v=2" alt="Python" /><br/>
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-bash.svg?v=2" alt="Bash" /><br/>
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-sql.svg?v=2" alt="SQL" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-linux.svg?v=2" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-linux.svg?v=2" alt="Linux" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/spacer.svg?v=2" width="200" height="1" alt="" />
 
 </td>
 <td width="16%" valign="top">
@@ -51,7 +51,7 @@ Python-разработчик с опытом преподавания и пра
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-docker.svg?v=2" alt="Docker" /><br/>
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-compose.svg?v=2" alt="Docker Compose" /><br/>
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-actions.svg?v=2" alt="GitHub Actions" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-git.svg?v=2" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-git.svg?v=2" alt="Git" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/spacer.svg?v=2" width="200" height="1" alt="" />
 
 </td>
 <td width="16%" valign="top">
@@ -61,7 +61,7 @@ Python-разработчик с опытом преподавания и пра
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-fastapi.svg?v=2" alt="FastAPI" /><br/>
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-postgres.svg?v=2" alt="PostgreSQL" /><br/>
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-mongo.svg?v=2" alt="MongoDB" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-pyside.svg?v=2" alt="PySide6" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-pyside.svg?v=2" alt="PySide6" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/spacer.svg?v=2" width="200" height="1" alt="" />
 
 </td>
 <td width="16%" valign="top">
@@ -70,7 +70,7 @@ Python-разработчик с опытом преподавания и пра
 
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-prometheus.svg?v=2" alt="Prometheus" /><br/>
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-grafana.svg?v=2" alt="Grafana" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-slo.svg?v=2" alt="SLA / SLO / SLI" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-slo.svg?v=2" alt="SLA / SLO / SLI" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/spacer.svg?v=2" width="200" height="1" alt="" />
 
 </td>
 <td width="16%" valign="top">
@@ -78,7 +78,7 @@ Python-разработчик с опытом преподавания и пра
 **Тесты**
 
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-pytest.svg?v=2" alt="pytest" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-ruff.svg?v=2" alt="ruff" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-ruff.svg?v=2" alt="ruff" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/spacer.svg?v=2" width="200" height="1" alt="" />
 
 </td>
 <td width="16%" valign="top">
@@ -87,12 +87,9 @@ Python-разработчик с опытом преподавания и пра
 
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-openwrt.svg?v=2" alt="OpenWRT" /><br/>
 <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-ssh.svg?v=2" alt="SSH / Firewall" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-n8n.svg?v=2" alt="n8n" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-n8n.svg?v=2" alt="n8n" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/spacer.svg?v=2" width="200" height="1" alt="" />
 
 </td>
-</tr>
-<tr>
-<td colspan="6"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/spacer.svg?v=2" width="1200" height="1" alt="" /></td>
 </tr>
 </table>
 
