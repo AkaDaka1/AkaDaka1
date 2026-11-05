@@ -7,15 +7,15 @@
 
 <!-- ═══════════════ БЕЙДЖИ КОНТАКТОВ ═══════════════ -->
 <p align="center">
-  <a href="https://akadaka1.github.io"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/website.svg" alt="Website" height="24" /></a>
-  <a href="https://t.me/mom_danil"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/telegram.svg" alt="Telegram" height="24" /></a>
-  <a href="mailto:dan.mom0t@yandex.ru"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/email.svg" alt="Email" height="24" /></a>
+  <a href="https://akadaka1.github.io"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/website.svg?v=2" alt="Website" height="24" /></a>
+  <a href="https://t.me/mom_danil"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/telegram.svg?v=2" alt="Telegram" height="24" /></a>
+  <a href="mailto:dan.mom0t@yandex.ru"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/email.svg?v=2" alt="Email" height="24" /></a>
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/location.svg" alt="Saint Petersburg" height="24" />
-  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/open-to.svg" alt="Open to: office, hybrid, remote" height="24" />
-  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/english.svg" alt="English B2" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/location.svg?v=2" alt="Saint Petersburg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/open-to.svg?v=2" alt="Open to: office, hybrid, remote" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/english.svg?v=2" alt="English B2" height="24" />
 </p>
 
 ---
@@ -38,24 +38,24 @@ Python-разработчик с опытом преподавания и пра
 
 **Языки и ОС**
 
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-python.svg" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-bash.svg" alt="Bash" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-sql.svg" alt="SQL" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-linux.svg" alt="Linux" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-python.svg?v=2" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-bash.svg?v=2" alt="Bash" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-sql.svg?v=2" alt="SQL" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-linux.svg?v=2" alt="Linux" />
 
 </td>
 <td width="33%" valign="top">
 
 **Контейнеры и CI/CD**
 
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-docker.svg" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-git.svg" alt="Git" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-compose.svg" alt="Docker Compose" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-actions.svg" alt="GitHub Actions" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-docker.svg?v=2" alt="Docker" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-git.svg?v=2" alt="Git" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-compose.svg?v=2" alt="Docker Compose" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-actions.svg?v=2" alt="GitHub Actions" />
 
 </td>
 <td width="33%" valign="top">
 
 **Бэкенд и данные**
 
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-fastapi.svg" alt="FastAPI" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-mongo.svg" alt="MongoDB" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-postgres.svg" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-pyside.svg" alt="PySide6" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-fastapi.svg?v=2" alt="FastAPI" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-mongo.svg?v=2" alt="MongoDB" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-postgres.svg?v=2" alt="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-pyside.svg?v=2" alt="PySide6" />
 
 </td>
 </tr>
@@ -64,23 +64,23 @@ Python-разработчик с опытом преподавания и пра
 
 **Наблюдаемость**
 
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-prometheus.svg" alt="Prometheus" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-grafana.svg" alt="Grafana" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-slo.svg" alt="SLA / SLO / SLI" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-prometheus.svg?v=2" alt="Prometheus" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-grafana.svg?v=2" alt="Grafana" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-slo.svg?v=2" alt="SLA / SLO / SLI" />
 
 </td>
 <td width="33%" valign="top">
 
 **Тесты**
 
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-pytest.svg" alt="pytest" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-ruff.svg" alt="ruff" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-pytest.svg?v=2" alt="pytest" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-ruff.svg?v=2" alt="ruff" />
 
 </td>
 <td width="33%" valign="top">
 
 **Сети**
 
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-openwrt.svg" alt="OpenWRT" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-n8n.svg" alt="n8n" /><br/>
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-ssh.svg" alt="SSH / Firewall" />
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-openwrt.svg?v=2" alt="OpenWRT" /> <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-n8n.svg?v=2" alt="n8n" /><br/>
+<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/chip-ssh.svg?v=2" alt="SSH / Firewall" />
 
 </td>
 </tr>
