@@ -7,15 +7,15 @@
 
 <!-- ═══════════════ БЕЙДЖИ КОНТАКТОВ ═══════════════ -->
 <p align="center">
-  <a href="https://akadaka1.github.io"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/website.svg" alt="Website" height="28" /></a>
-  <a href="https://t.me/mom_danil"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/telegram.svg" alt="Telegram" height="28" /></a>
-  <a href="mailto:dan.mom0t@yandex.ru"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/email.svg" alt="Email" height="28" /></a>
+  <a href="https://akadaka1.github.io"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/website.svg" alt="Website" height="24" /></a>
+  <a href="https://t.me/mom_danil"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/telegram.svg" alt="Telegram" height="24" /></a>
+  <a href="mailto:dan.mom0t@yandex.ru"><img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/email.svg" alt="Email" height="24" /></a>
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/location.svg" alt="Saint Petersburg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/open-to.svg" alt="Open to: office, hybrid, remote" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/english.svg" alt="English B2" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/location.svg" alt="Saint Petersburg" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/open-to.svg" alt="Open to: office, hybrid, remote" height="24" />
+  <img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/english.svg" alt="English B2" height="24" />
 </p>
 
 ---
