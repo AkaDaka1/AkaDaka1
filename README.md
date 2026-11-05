@@ -130,25 +130,6 @@ Telegram-бот, который в диалоге собирает данные 
 
 ---
 
-## 📊 Статистика GitHub
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/stats-overview.svg" alt="GitHub Stats" />
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/stats-langs.svg" alt="Top Languages" />
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/stats-streak.svg" alt="Streak" />
-
-<br/>
-
-<img src="https://cdn.jsdelivr.net/gh/AkaDaka1/AkaDaka1@main/badges/stats-activity.svg" alt="Activity" />
-
-</div>
-
----
-
 ## 🎓 Образование
 
 - **РГПУ им. А. И. Герцена** — магистратура, 2028 · «Цифровая образовательная среда и цифровые технологии» (44.04.01)
